@@ -1,0 +1,56 @@
+========================================
+Shopping Cart with Operator Overloading
+========================================
+
+--------
+Domain
+--------
+E-Commerce
+
+------------------
+Problem Statement
+------------------
+In modern e-commerce platforms, shopping carts are essential to allow customers to collect items before purchase.
+
+This project will build a Shopping Cart system where:
+a. Items can be added to or removed from a cart.
+b. The cart should behave like a list using operator overloading (__add__, __len__, __getitem__, etc.).
+c. Students will practice implementing Python dunder methods to give objects natural behaviors.
+d. Reports such as cart contents and total price should be generated.
+
+students will learn:
+-------------------- 
+Classes & Objects
+Operator Overloading / Dunder Methods
+	__str__ for printing
+	__add__ to add items/carts
+	__len__ to count items
+	__getitem__ for indexing
+	__contains__ for checking membership
+Lists & Dictionaries (to store items)
+Encapsulation (Cart manages its own items)
+Reports & Summaries
+
+
+Step-by-Step Workflow for Students:
+-----------------------------------
+1. Create Item class → holds product details (name, price, quantity).
+2. Create ShoppingCart class → holds a list of items.
+3. Overload operators in ShoppingCart:
+	__str__: show cart contents.
+	__len__: return number of items.
+	__getitem__: access item by index.
+	__contains__: check if an item exists.
+	__add__: allow adding an item or combining carts.
+
+4. Implement methods:
+	add_item()
+	remove_item()
+	total_price()
+5. Create a menu in main.py to test operations interactively.
+
+Student Breakdown of Tasks
+---------------------------
+Student A: Implement Item class and its __str__ method.
+Student B: Implement ShoppingCart class basics (add_item, remove_item, storage).
+Student C: Implement operator overloading (__add__, __len__, etc.) and reporting (total_price)

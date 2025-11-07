@@ -1,0 +1,81 @@
+--- Shopping Cart Menu ---
+1. Add Item
+2. Remove Item
+3. View Cart
+4. Show Cart Length
+5. Check if Item Exists
+6. Total Price
+7. Exit
+Enter choice: 1
+Item name: Milk
+Price: 40
+Quantity: 2
+Item added!
+
+--- Shopping Cart Menu ---
+1. Add Item
+2. Remove Item
+3. View Cart
+4. Show Cart Length
+5. Check if Item Exists
+6. Total Price
+7. Exit
+Enter choice: 2
+Enter item name to remove: Milk
+Item removed!
+
+--- Shopping Cart Menu ---
+1. Add Item
+2. Remove Item
+3. View Cart
+4. Show Cart Length
+5. Check if Item Exists
+6. Total Price
+7. Exit
+Enter choice: 3
+Shopping Cart is empty.
+
+--- Shopping Cart Menu ---
+1. Add Item
+2. Remove Item
+3. View Cart
+4. Show Cart Length
+5. Check if Item Exists
+6. Total Price
+7. Exit
+Enter choice: 4
+Items in cart: 0
+
+--- Shopping Cart Menu ---
+1. Add Item
+2. Remove Item
+3. View Cart
+4. Show Cart Length
+5. Check if Item Exists
+6. Total Price
+7. Exit
+Enter choice: 5
+Enter item name: Milk
+False
+
+--- Shopping Cart Menu ---
+1. Add Item
+2. Remove Item
+3. View Cart
+4. Show Cart Length
+5. Check if Item Exists
+6. Total Price
+7. Exit
+Enter choice: 6
+Total Price: 0
+
+--- Shopping Cart Menu ---
+1. Add Item
+2. Remove Item
+3. View Cart
+4. Show Cart Length
+5. Check if Item Exists
+6. Total Price
+7. Exit
+Enter choice: 7
+Exiting...
